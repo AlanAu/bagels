@@ -1,6 +1,7 @@
 Bagels: a guessing game 
 ----
 Implemented by Alan Au
+
 Code was (mostly) written at Seattle PyLadies EastSide hack night on 2017-11-06.
 
 ----
