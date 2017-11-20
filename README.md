@@ -2,13 +2,15 @@ Bagels: a guessing game
 ----
 Implemented by Alan Au
 Code was (mostly) written at Seattle PyLadies EastSide hack night on 2017-11-06.
+
 ----
 The game will generate a 3-digit non-repeating number from digits 0-9.
 
 The player will enter a 3-digit guess, and the game will respond as follows:
- 'Fermi'  = correct digit in proper place
- 'Pico'   = correct digit in wrong place
- 'Bagels' = no correct digits
+- 'Fermi'  = correct digit in proper place
+- 'Pico'   = correct digit in wrong place
+- 'Bagels' = no correct digits
+
 ----
 The player can receive multiple responses, e.g. 'Fermi Pico' means both apply.
 
